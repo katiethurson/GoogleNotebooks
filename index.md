@@ -4,6 +4,7 @@ You can use the [editor on GitHub](https://github.com/katiethurson/GoogleNoteboo
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<img width="327" alt="Screen Shot 2021-04-29 at 3 50 27 PM" src="https://user-images.githubusercontent.com/80792735/116609716-b5cbe780-a902-11eb-994d-bc96e71aa603.png">
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
